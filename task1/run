@@ -1,0 +1,9 @@
+#!/usr/bin/bash 
+
+gcc task1.c
+
+./a.out test_1.c output1.txt
+./a.out test_2.c output2.txt
+./a.out test_3.c output3.txt
+./a.out test_4.c output4.txt
+./a.out test_5.c output5.txt
