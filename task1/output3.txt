@@ -1,0 +1,5 @@
+for : 5
+int : 16
+char : 0
+const : 0
+void : 0
